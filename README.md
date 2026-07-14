@@ -20,7 +20,7 @@ Python · TensorFlow/Keras · librosa · NumPy · SciPy
 
 ## Dataset
 
-[RAVDESS](https://zenodo.org/record/1188976) (Ryerson Audio-Visual Database of Emotional Speech and Song)
+[RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio) (Ryerson Audio-Visual Database of Emotional Speech and Song)
 
 ## Pistes d'amélioration
 
